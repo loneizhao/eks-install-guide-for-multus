@@ -6,7 +6,7 @@
 
 ## Create Environment with CloudFormation
 * Type "CloudFormation" at search service section and go to CloudFormation.
-* Create Stack -> upload a template file -> Choose file (select downloaded "./eks-infra.yaml").
+* Create Stack -> upload a template file -> Choose file (select downloaded "./eks-infra.yaml",for China region,please use eks-infra_cn.yaml).
 * You might consider to use 'eks-multus-cluster' for the name of your cluster as well the Cloudformation stack.
 
 
